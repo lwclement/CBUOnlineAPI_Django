@@ -1,0 +1,1 @@
+The superuser for the SQLite database is set to lclement with the "standard" password (alma mater)
